@@ -4,4 +4,4 @@ layout: home.html
 
 # Recipez 
 
-[Möhrenkuchen](/recipes/carrot-cake)
+[Möhrenkuchen](/rezepte/moehrenkuchen)
