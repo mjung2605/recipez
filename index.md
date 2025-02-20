@@ -2,4 +2,6 @@
 layout: home.html
 ---
 
-[Möhrenkuchen](/rezepte/moehrenkuchen)
+{% for recipe in collections.recipes %}
+    [{{recipe.data.title}}]({{recipe.url}})
+{% endfor %}
