@@ -1,7 +1,7 @@
 ---
 layout: recipe.html
 title: Möhrenkuchen
-tags: [Backen, Gemüse, Süß]
+tags: [Backen, Gemüse, Süß, Vegetarisch]
 type: "Rezept"
 ---
 

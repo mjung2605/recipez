@@ -1,7 +1,7 @@
 ---
 layout: recipe.html
 title: Gebrannte Mandeln
-tags: [Backen, Süß, Weihnachten]
+tags: [Backen, Süß, Weihnachten, Vegetarisch]
 type: "Rezept"
 ---
 
