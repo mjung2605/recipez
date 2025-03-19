@@ -1,5 +1,4 @@
 /*
- *
  * returns all content that has 'type: "Rezept"' in its Front Matter
  */
 module.exports = function(eleventyConfig) {
