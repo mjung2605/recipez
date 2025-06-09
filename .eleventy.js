@@ -6,5 +6,5 @@ module.exports = function(eleventyConfig) {
       const allItems = collectionApi.getAll();
       return allItems.filter(item => item.data.type === "Rezept");
     });
-  };
+};
   
