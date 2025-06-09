@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/mjung2605/recipez/issues"
   },
-  "homepage": "https://github.com/mjung2605/recipez#readme",
+  "homepage": "https://mjung2605.github.io/recipez/",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0"
   }
